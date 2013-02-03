@@ -1,4 +1,4 @@
-(defproject vnote "0.1.0"
+(defproject vnote "0.2.0"
   :description "VNOTE reader for Clojure."
   :url "http://github.com/bouzuya/clj-vnote"
   :license {:name "Eclipse Public License"
